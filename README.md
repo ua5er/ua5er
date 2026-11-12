@@ -8,4 +8,4 @@ I build and run the marketing system around paid acquisition: Meta and TikTok us
 
 **Open source:** [user-acquisition-skills](https://github.com/ua5er/user-acquisition-skills): agent skills for performance marketing, user acquisition and mobile app growth (kill and scale rules, paywall audit, onboarding and web2app funnels, CAC and LTV checks, attribution sanity checks, weekly UA report). Install: `npx skills add ua5er/user-acquisition-skills`
 
-**Work with me:** [roimobi.com](https://www.roimobi.com) · [Request an audit](https://www.roimobi.com/contact?intent=audit) · [LinkedIn](https://www.linkedin.com/in/vlad-yasinski-user-acquisition-mobile-apps/) · [Telegram](https://t.me/ua5er)
+**Work with me:** [roimobi.com](https://www.roimobi.com) · [Request an audit](https://www.roimobi.com/contact?intent=audit) · [LinkedIn](https://www.linkedin.com/in/vlad-yasinski-ua5er/) · [Telegram](https://t.me/ua5er)
