@@ -8,6 +8,8 @@ I build and run the marketing system around paid acquisition: Meta and TikTok us
 
 **Open source:** [user-acquisition-skills](https://github.com/ua5er/user-acquisition-skills): agent skills for performance marketing, user acquisition and mobile app growth (kill and scale rules, paywall audit, onboarding and web2app funnels, CAC and LTV checks, attribution sanity checks, weekly UA report). Install: `npx skills add ua5er/user-acquisition-skills`. [Live paywall and onboarding concepts](https://ua5er.github.io/user-acquisition-skills/#paywalls) built with them.
 
+**New: [Web-to-Web BI Board](https://github.com/ua5er/web2web-bi-board) v1.0:** an open-source BI dashboard for subscription web funnels: cohort ROAS and payback from D0 to D360, sBG LTV and ROAS forecasts, real-time ad spend monitoring and a funnel map. Static, no backend. [Live demo](https://ua5er.github.io/web2web-bi-board/).
+
 **Also:** [dc-lite](https://github.com/ua5er/dc-lite): a 3.4 KB renderer that runs interactive HTML design boards as plain pages on any static host.
 
 **Work with me:** [roimobi.com](https://www.roimobi.com) · [Request an audit](https://www.roimobi.com/contact?intent=audit) · [LinkedIn](https://www.linkedin.com/in/vlad-yasinski-ua5er/) · [Telegram](https://t.me/ua5er)
