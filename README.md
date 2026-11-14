@@ -12,4 +12,4 @@ I build and run the marketing system around paid acquisition: Meta and TikTok us
 
 **Also:** [dc-lite](https://github.com/ua5er/dc-lite): a 3.4 KB renderer that runs interactive HTML design boards as plain pages on any static host.
 
-**Work with me:** [roimobi.com](https://www.roimobi.com) · [Request an audit](https://www.roimobi.com/contact?intent=audit) · [LinkedIn](https://www.linkedin.com/in/vlad-yasinski-ua5er/) · [Telegram](https://t.me/ua5er)
+**Work with me:** [roimobi.com](https://www.roimobi.com/?utm_source=github&utm_medium=profile&utm_campaign=ua5er) · [Request an audit](https://www.roimobi.com/contact?intent=audit&utm_source=github&utm_medium=profile&utm_campaign=ua5er) · [LinkedIn](https://www.linkedin.com/in/vlad-yasinski-ua5er/) · [Telegram](https://www.roimobi.com/tg?src=github-profile)
